@@ -1,0 +1,4 @@
+project_id = "sijbjijvgxgjgkbvwhte"
+
+[functions.sync-sympla-events]
+verify_jwt = false
